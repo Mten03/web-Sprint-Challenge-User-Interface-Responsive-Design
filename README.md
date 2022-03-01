@@ -75,10 +75,15 @@ Review the provided design file for the home page.
 * [ ] Create social media buttons on header for [Facebook](https://fontawesome.com/search?q=facebook&s=solid%2Cbrands), [Twitter](https://fontawesome.com/search?q=twitter&s=solid%2Cbrands), and [Instagram](https://fontawesome.com/search?q=instagram&s=solid%2Cbrands) with the linked icons.
 * [ ] Build the rest of the home page layout to match the design. Much of it has already been implemented; you should only need to fix the header, footer, and gallery portions.
 ​
-Colors and fonts:
+Colors and fonts for desktop:
 Light text: rgb(225, 239, 230);
 Dark background: rgb(0, 4, 17);
 Dark transparency: background-color: rgb(0, 4, 17, .8);
+
+Colors and fonts for mobile:
+Dark text: rgb(0, 4, 17);
+Light background: rgb(225, 239, 230);
+Dark borders: rgb(0, 4, 17);
 ​
 ​
 ### Menu Page
